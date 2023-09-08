@@ -4,7 +4,7 @@ Novel Nest is a website where you can share the most beautiful novels you've rea
 
 ## Overview
 
-Welcome to Novel Nest, the ultimate online haven for book enthusiasts! At Novel Nest, we provide a platform where you can discover, share, and discuss the most captivating novels you've ever encountered. Whether you're an avid reader looking to connect with fellow bookworms or a writer seeking inspiration, Novel Nest is the place for you.
+Welcome to Novel Nest, the ultimate online heaven for book enthusiasts! At Novel Nest, we provide a platform where you can discover, share, and discuss the most captivating novels you've ever encountered. Whether you're an avid reader looking to connect with fellow bookworms or a writer seeking inspiration, Novel Nest is the place for you.
 
 ### Screenshot
 
