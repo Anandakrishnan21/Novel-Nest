@@ -1,6 +1,6 @@
 # Welcome to Novel Nest website
 
-Novel Nest is a website where you can share the most beautiful novels you've read with others. Vite.js, tailwind css are used for frondend development and mysql, node.js and express are used in the backend side.
+"Novel Nest" is a website where you can share the most beautiful novels you've read with others. Vite.js, tailwind css are used for frondend development and mysql, node.js and express are used in the backend side.
 
 ## Overview
 
