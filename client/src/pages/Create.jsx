@@ -23,7 +23,7 @@ function Create() {
   const handleClick = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:8800/books", books);
+      await axios.post("https://novel-nest-jwjz.vercel.app/books", books);
       navigate("/");
     } catch (err) {
       console.log(err);
