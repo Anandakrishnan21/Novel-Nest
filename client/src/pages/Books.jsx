@@ -9,7 +9,7 @@ function Books() {
   useEffect(() => {
     const fetchBooks = async () => {
       try {
-        const res = await axios.get("http://localhost:8800/books");
+        const res = await axios.get("https://novel-nest-jwjz.vercel.app/books");
         setBooks(res.data);
       } catch (err) {
         console.log(err);
@@ -20,7 +20,7 @@ function Books() {
 
   const handleDelete = async (id) => {
     try {
-      await axios.delete(`http://localhost:8800/books/${id}`);
+      await axios.delete(`https://novel-nest-jwjz.vercel.app/books/${id}`);
       window.location.reload();
     } catch (err) {
       console.log(err);
