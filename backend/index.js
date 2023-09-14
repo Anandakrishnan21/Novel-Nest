@@ -16,7 +16,7 @@ const db = mysql.createConnection({
   database: process.env.DB_NAME,
 });
 
-app.use(cors({ origin: "https://novel-nest-jwjz.vercel.app/", credentials: true }));
+app.use(cors({ origin: "https://novel-nest-quq4.vercel.app/", credentials: true }));
 
 app.get("/", (req, res) => {
   res.json("Hello this is a backend message");
