@@ -26,7 +26,7 @@ const Update = () => {
     e.preventDefault();
 
     try {
-      await axios.put(`http://localhost:8800/books/${bookId}`, book);
+      await axios.put(`https://novel-nest-jwjz.vercel.app/books/${bookId}`, book);
       navigate("/");
     } catch (err) {
       console.log(err);
